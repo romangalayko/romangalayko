@@ -1,16 +1,34 @@
-## Hi there 👋
+# Роман Галайко
+Добро пожаловать на страницу моего портфолио на GitHub!   
 
-<!--
-**romangalayko/romangalayko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Контакты  
+•	e-mails: romangalayko@yandex.ru, 13romangalayko@gmail.com  
+•	telegram: @romangalayko  
+## Проекты  
+•	[Проекты Яндекс Практикум](https://github.com/romangalayko/projects_yandex_practicum/blob/main/README.md) 
+## Навыки
 
-Here are some ideas to get you started:
+### Языки
+- Python, SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Среда
+- Jupyter Notebook  
+
+### Библиотеки и фреймворки
+- pandas, NumPy, SciPy, StatsModels, Phi_K  
+- scikit-learn, XGBoost, CatBoost, LightGBM  
+- TensorFlow (Keras), NLTK  
+- Matplotlib, Seaborn, Plotly, SHAP  
+
+### Алгоритмы и модели
+- Linear Regression, Logistic Regression  
+- Decision Trees, Random Forest  
+- Gradient Boosting  
+- SVM, KNN  
+- Neural Networks
+
+## Профессиональные сферы:  
+•	IT Operations / Technical Specialist с опытом работы в банковской среде
+•	Страхование  
+## Образование  
+•	Курс "Специалист по Data Science", Яндекс Практикум  
