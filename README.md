@@ -28,7 +28,7 @@
 - Neural Networks
 
 ## Профессиональные сферы:  
-•	IT Operations / Technical Specialist с опытом работы в банковской среде
+•	IT Operations / Technical Specialist с опытом работы в банковской среде  
 •	Страхование  
 ## Образование  
 •	Курс "Специалист по Data Science", Яндекс Практикум  
