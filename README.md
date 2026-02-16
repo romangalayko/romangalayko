@@ -8,22 +8,23 @@
 -	[Проекты Яндекс Практикум](https://github.com/romangalayko/projects_yandex_practicum/blob/main/README.md) 
 ## Навыки
 
-### Языки
+### Языки программирования
 - Python, SQL  
 
-### Среда
-- Jupyter Notebook (Anaconda)
+### Среда и инструменты
+- Jupyter Notebook, Anaconda, Git
 
 ### Библиотеки и фреймворки
-- pandas, NumPy, SciPy, StatsModels, Phi_K  
+- pandas, NumPy, SciPy, statsmodels, phik  
 - scikit-learn, XGBoost, CatBoost, LightGBM  
-- TensorFlow (Keras), NLTK, PIL
+- TensorFlow (Keras), NLTK  
+- PIL (Pillow)  
 - Matplotlib, Seaborn, Plotly, SHAP  
 
 ### Алгоритмы и модели
 - Linear Regression, Logistic Regression  
 - Decision Trees, Random Forest  
-- Gradient Boosting  
+- XGBoost, CatBoost, LightGBM
 - SVM, KNN  
 
 ## Профессиональные сферы:  
