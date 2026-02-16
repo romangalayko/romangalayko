@@ -12,12 +12,12 @@
 - Python, SQL  
 
 ### Среда
-- Jupyter Notebook  
+- Jupyter Notebook (Anaconda)
 
 ### Библиотеки и фреймворки
 - pandas, NumPy, SciPy, StatsModels, Phi_K  
 - scikit-learn, XGBoost, CatBoost, LightGBM  
-- TensorFlow (Keras), NLTK  
+- TensorFlow (Keras), NLTK, PIL
 - Matplotlib, Seaborn, Plotly, SHAP  
 
 ### Алгоритмы и модели
@@ -25,7 +25,6 @@
 - Decision Trees, Random Forest  
 - Gradient Boosting  
 - SVM, KNN  
-- Neural Networks
 
 ## Профессиональные сферы:  
 -	IT Operations / Technical Specialist с опытом работы в банковской среде  
