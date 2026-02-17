@@ -9,7 +9,7 @@
 ## Навыки
 
 ### Языки программирования
-- Python, SQL (PosgreSQL)
+- Python, SQL (PostgreSQL)
 
 ### Среда и инструменты
 - Jupyter Notebook, Anaconda, Git
