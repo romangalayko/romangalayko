@@ -5,7 +5,8 @@
 -	e-mails: romangalayko@yandex.ru, 13romangalayko@gmail.com  
 -	telegram: [@romangalayko](https://t.me/romangalayko)
 ## Проекты  
--	[Проекты Яндекс Практикум](https://github.com/romangalayko/projects_yandex_practicum/blob/main/README.md) 
+-	[Проекты Яндекс Практикум](https://github.com/romangalayko/projects_yandex_practicum/blob/main/README.md)
+-	[Личные проекты](https://github.com/romangalayko/personal_projects/blob/main/README.md)
 ## Навыки
 
 ### Языки программирования
