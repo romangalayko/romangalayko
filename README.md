@@ -3,7 +3,7 @@
 
 ## Контакты  
 -	e-mails: romangalayko@yandex.ru, 13romangalayko@gmail.com  
--	telegram: @romangalayko  
+-	telegram: [@romangalayko](https://t.me/romangalayko)
 ## Проекты  
 -	[Проекты Яндекс Практикум](https://github.com/romangalayko/projects_yandex_practicum/blob/main/README.md) 
 ## Навыки
