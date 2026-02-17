@@ -9,16 +9,14 @@
 ## Навыки
 
 ### Языки программирования
-- Python, SQL  
+- Python, SQL (PosgreSQL)
 
 ### Среда и инструменты
 - Jupyter Notebook, Anaconda, Git
 
 ### Библиотеки и фреймворки
-- pandas, NumPy, SciPy, statsmodels, phik  
-- scikit-learn, XGBoost, CatBoost, LightGBM  
-- TensorFlow (Keras), NLTK  
-- PIL (Pillow)  
+- pandas, NumPy, scikit-learn, SciPy, statsmodels, phik  
+- TensorFlow (Keras), NLTK, PIL
 - Matplotlib, Seaborn, Plotly, SHAP  
 
 ### Алгоритмы и модели
