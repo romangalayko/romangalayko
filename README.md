@@ -30,6 +30,7 @@
 -	IT Operations / Technical Specialist с опытом работы в банковской среде  
 -	Страхование  
 ## Образование  
+- Курс 'Excel: от новичка до уверенного бизнес-пользователя', Stepik.org
 -	Курс "Специалист по Data Science", Яндекс Практикум
 -	Курс SQL, SQL Academy
 -	Курс "Аналитик данных", Karpov.courses
