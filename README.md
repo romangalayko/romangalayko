@@ -10,21 +10,16 @@
 ## Навыки
 
 ### Языки программирования
-- Python, SQL (PostgreSQL)
+- Python, SQL (PostgreSQL: JOIN, подзапросы, оконные функции)
 
 ### Среда и инструменты
-- Jupyter Notebook, Anaconda, Git
+- Jupyter Notebook, Git, Tableau, Excel (сводные таблицы, анализ данных).
 
 ### Библиотеки и фреймворки
-- pandas, NumPy, scikit-learn, SciPy, statsmodels, phik  
-- TensorFlow (Keras), NLTK, PIL
-- Matplotlib, Seaborn, Plotly, SHAP  
+- pandas, NumPy, scikit-learn, CatBoost, LightGBM, XGBoost, Matplotlib, Seaborn, Plotly, SHAP, NLTK.
 
 ### Алгоритмы и модели
-- Linear Regression, Logistic Regression  
-- Decision Trees, Random Forest  
-- XGBoost, CatBoost, LightGBM
-- SVM, KNN  
+- Gradient Boosting, Linear / Logistic Regression, Tree-based models, SVM, KNN 
 
 ## Профессиональные сферы:  
 -	IT Operations / Technical Specialist с опытом работы в банковской среде  
